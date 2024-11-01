@@ -1,0 +1,10 @@
+*.cpp
+*.h
+*.txt
+*.js
+*.jar
+*.php
+main_ignore.cpp
+main_ignore.h
+main_ignore.o
+main_ignore
